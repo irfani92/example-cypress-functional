@@ -1,1 +1,1 @@
-"# example automatically testing for functionality" 
+"Example automatically testing for functionality with recording" 
